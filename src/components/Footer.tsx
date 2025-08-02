@@ -72,11 +72,11 @@ const Footer: React.FC<FooterProps> = ({ setCurrentPage }) => {
               </div>
               <div className="flex items-center space-x-3">
                 <Phone className="w-5 h-5 text-orange-500 flex-shrink-0" />
-                <p className="text-gray-400">+237 658 728 495</p>
+                <p className="text-gray-400">+237 682216208/622051724</p>
               </div>
               <div className="flex items-center space-x-3">
                 <Mail className="w-5 h-5 text-orange-500 flex-shrink-0" />
-                <p className="text-gray-400">moussanadji.sci@gmail.com</p>
+                <p className="text-gray-400">Info.sahelbtp@gmail.com</p>
               </div>
               <div className="flex items-start space-x-3">
                 <Clock className="w-5 h-5 text-orange-500 mt-0.5 flex-shrink-0" />

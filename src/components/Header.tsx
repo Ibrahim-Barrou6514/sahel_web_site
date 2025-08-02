@@ -29,11 +29,11 @@ const Header: React.FC<HeaderProps> = ({ openQuoteModal }) => {
           <div className="flex items-center space-x-6">
             <div className="flex items-center space-x-2">
               <Phone className="w-4 h-4" />
-              <span>+237 658 728 495</span>
+              <span>+237 682216208/622051724</span>
             </div>
             <div className="flex items-center space-x-2">
               <Mail className="w-4 h-4" />
-              <span>moussanadji.sci@gmail.com</span>
+              <span>Info.sahelbtp@gmail.com</span>
             </div>
           </div>
           <div className="flex items-center space-x-2">
@@ -49,7 +49,7 @@ const Header: React.FC<HeaderProps> = ({ openQuoteModal }) => {
           <div className="flex items-center justify-between">
             <div className="flex items-center space-x-2">
               <Phone className="w-3 h-3" />
-              <span>+237 658 728 495</span>
+              <span>+237 682216208</span>
             </div>
             <div className="flex items-center space-x-2">
               <MapPin className="w-3 h-3" />

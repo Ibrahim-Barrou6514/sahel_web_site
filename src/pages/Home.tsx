@@ -70,9 +70,9 @@ const Home: React.FC<HomeProps> = ({ setCurrentPage, openQuoteModal }) => {
   ];
 
   const stats = [
-    { number: "200+", label: "Projets Réalisés", icon: <Trophy className="w-8 h-8" /> },
-    { number: "80+", label: "Clients Satisfaits", icon: <Users className="w-8 h-8" /> },
-    { number: "12+", label: "Années d'Expérience", icon: <Clock className="w-8 h-8" /> },
+    { number: "50+", label: "Projets Réalisés", icon: <Trophy className="w-8 h-8" /> },
+    { number: "45+", label: "Clients Satisfaits", icon: <Users className="w-8 h-8" /> },
+    { number: "6+", label: "Années d'Expérience", icon: <Clock className="w-8 h-8" /> },
     { number: "98%", label: "Taux de Satisfaction", icon: <CheckCircle className="w-8 h-8" /> }
   ];
 
@@ -221,7 +221,7 @@ const Home: React.FC<HomeProps> = ({ setCurrentPage, openQuoteModal }) => {
   className="rounded-lg shadow-xl"
 />
               <div className="absolute -bottom-6 -right-6 bg-orange-500 text-white p-6 rounded-lg shadow-lg">
-                <p className="text-2xl font-bold">12+</p>
+                <p className="text-2xl font-bold">6+</p>
                 <p className="text-sm">Années d'Excellence</p>
               </div>
             </div>

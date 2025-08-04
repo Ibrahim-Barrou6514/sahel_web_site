@@ -157,7 +157,7 @@ const Home: React.FC<HomeProps> = ({ setCurrentPage, openQuoteModal }) => {
               Votre partenaire de confiance pour tous vos projets de construction au Cameroun
             </p>
             <p className="text-lg mb-12 max-w-4xl mx-auto text-blue-200 leading-relaxed">
-              Depuis plus de 12 ans, SAHEL BTP s'impose comme le leader de la construction moderne au Cameroun. 
+              Depuis plus de 5 ans, SAHEL BTP s'impose comme le leader de la construction moderne au Cameroun. 
               Nous transformons vos rêves architecturaux en réalité grâce à notre expertise reconnue dans 
               l'architecture innovante, la construction durable, les solutions smart home et bien plus encore. 
               Notre engagement : excellence, qualité et innovation au service du développement de l'Afrique.
